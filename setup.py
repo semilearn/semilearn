@@ -7,7 +7,7 @@ requirements = ["ipython>=6", "nbformat>=4", "nbconvert>=5", "requests>=2"]
 
 setup(
     name="semilearn",
-    version="0.0.1",
+    version="0.0.2",
     author="Farisology",
     author_email="fareshasan.ai@gmail.com",
     description="A package for semisupervised learning, compatible with Scikit-Learn",
